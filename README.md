@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/streams/2013/June/130617/6C7911377-tdy-130617-leo-toasts-1.jpg)
-
 
 Hi My name is Nattapong Laoraowattanakul
 ==================================================================================================================================================
