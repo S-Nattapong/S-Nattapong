@@ -4,7 +4,6 @@ Hi My name is Nattapong Laoraowattanakul
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [saw1229@hotmail.com](mailto:saw1229@hotmail.com)
-* 🧠  I'm learning Nextjs
 
 ### Skills
 
